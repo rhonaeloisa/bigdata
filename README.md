@@ -1,1 +1,3 @@
-# bigdata_lab4
+Hestiada, Hershey
+Lobarbio, Chariesse
+Lumbes, Rhona Eloisa
